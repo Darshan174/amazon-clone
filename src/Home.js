@@ -61,7 +61,7 @@ function Home() {
             id={45356543}
             title='LG OLED TV'
             price={159000}
-            image='https://www.lg.com/sg/images/tvs/md07554580/gallery/OLED88Z2PSA-OLEDTVs-MZ-3.jpg'
+            image='https://m.media-amazon.com/images/I/81MRU+3RJLL._SX679_.jpg'
             rating={5}/>
             </div>            
         </div>    

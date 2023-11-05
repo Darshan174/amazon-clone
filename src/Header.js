@@ -17,12 +17,12 @@ function Header() {
 
   return (
     <div className="header">
-      <Link to="/">
+       <Link to="/">
         <img
           className="header__logo"
-          src="https://logos-world.net/wp-content/uploads/2020/04/Amazon-Emblem.jpg"
+          src="https://logos-world.net/wp-content/uploads/2020/04/Amazon-Emblem.jpg" alt=""
         />
-      </Link>
+      </Link> 
 
       <div className="header__search">
         <input
